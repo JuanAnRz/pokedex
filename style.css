@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+button{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+    
+}
 body{
     background-color: rgba(242, 45, 45, 0.655);
     display: block;  
